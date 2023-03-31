@@ -1,4 +1,4 @@
-# 2.Project-Quantitative-Finance: Portfolio Risk Management
+# Quantitative-Finance: Portfolio Risk Management
 
 ## Introduction
 Portfolio risk management is a critical process for investors who want to maximize returns while minimizing the likelihood and impact of negative events. In this README, we will discuss some of the common metrics used in portfolio risk management.
